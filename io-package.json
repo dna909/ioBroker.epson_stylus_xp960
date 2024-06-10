@@ -27,7 +27,7 @@
             "zh-cn": "该适配器从EPSON EcoTank ET-2750读取水箱液位和其他信息，并存储在ioBroker中。\n ",
             "uk": "Цей адаптер зчитує рівень бака та іншу інформацію з EPSON EcoTank ET-2750 і зберігає в ioBroker.\n Також підтримується EPSON EcoTank ET-4750 (перевірено Homoran)\n EPSON EcoTank ET-3750 також підтримується (перевірено christofkac)\nEPSON EcoTank ET-2721 також підтримується (перевірено mikepiko)"
         },
-        "version": "0.0.12",
+        "version": "0.0.13",
         "news": {
             "0.0.12": {
                 "en": "fix ETIMEDOUT error",

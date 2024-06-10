@@ -33,6 +33,18 @@ function startAdapter(options) {
 }
 
 const ink = {
+    'lightmagenta': {
+        'state': 'lightmagenta',
+        'name': 'Light-Magenta',
+        'inklvl_rx': "IMAGE\\/Ink_LM\\.PNG\\' height=\\'([0-9]{1,2})\\'",
+        'cartridge_rx': '\\(C\\)&nbsp;\\:<\\/span><\\/dt><dd class=\\"value clearfix\\"><div class=\\"preserve-white-space\\">([a-zA-Z0-9\\/]*)<\\/div>'
+    },
+    'lightcyan': {
+        'state': 'lightcyan',
+        'name': 'Light-Cyan',
+        'inklvl_rx': "IMAGE\\/Ink_LC\\.PNG\\' height=\\'([0-9]{1,2})\\'",
+        'cartridge_rx': '\\(C\\)&nbsp;\\:<\\/span><\\/dt><dd class=\\"value clearfix\\"><div class=\\"preserve-white-space\\">([a-zA-Z0-9\\/]*)<\\/div>'
+    },
     'cyan': {
         'state': 'cyan',
         'name': 'Cyan',

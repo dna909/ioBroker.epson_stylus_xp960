@@ -1,15 +1,15 @@
 {
-  "name": "iobroker.epson_ecotank_et_2750",
-  "description": "Ink status and more of EPSON EcoTank ET-2750",
-  "version": "0.0.12",
+  "name": "iobroker.epson_stylus_xp960",
+  "description": "Ink status and more of EPSON Stylus XP960",
+  "version": "0.0.13",
   "author": "o0shojo0o",
   "contributors": [
     "o0shojo0o"
   ],
-  "homepage": "https://github.com/o0shojo0o/ioBroker.epson_ecotank_et_2750",
+  "homepage": "https://github.com/dna909/ioBroker.epson_stylus_xp960",
   "repository": {
     "type": "git",
-    "url": "https://github.com/o0shojo0o/ioBroker.epson_ecotank_et_2750"
+    "url": "https://github.com/dna909/ioBroker.epson_stylus_xp960"
   },
   "license": "MIT",
   "keywords": [
@@ -48,7 +48,7 @@
     "gulp": "^4.0.2"
   },
   "bugs": {
-    "url": "https://github.com/o0shojo0o/ioBroker.epson_ecotank_et_2750/issues"
+    "url": "https://github.com/dna909/ioBroker.epson_stylus_xp960/issues"
   },
   "main": "main.js",
   "scripts": {
